@@ -1,6 +1,6 @@
 Airbnb Booking Analysis
 
-*About
+Abstract
 
 
 Airbnb is an online marketplace that connects people who want to rent out their homes with people who are looking for accommodations in that locale. It currently covers more than 100,000 cities and 220 countries worldwide. For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
@@ -8,10 +8,15 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 For this project we are analyzing Airbnb’s New York City(NYC) data. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and have come up with interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team and technical team of Airbnb.
-*objective
+
+Problem statement
+ This project aims to analyze Airbnb data using Python language and it's libraries, to perform data cleaning and preparation, develop interactive visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends.
+
+objective
 The goal of the project - The purpose of the project is to gather information and analyze the detailed information of the different bookings in the neighborhood groups in order to provide insights about the bookings in a particular area as per your preference, type of rooms, and price accordingly.
 We have tried discovering relationships among different columns and found meaningful insights to decipher business impacts.
-***Data Cleaning***:
+
+Data Cleaning:
 
 1.Dropping duplicates.
 
@@ -19,7 +24,7 @@ We have tried discovering relationships among different columns and found meanin
 
 3.Remove the Null values from the dataset
 
-***Data Analysis and Visualization***:
+Data Analysis and Visualization:
 
 *   What is the average price  according to the location?
 *   Number of active hosts per location (Where most of the hosts focused to own property?)
@@ -34,6 +39,7 @@ We have tried discovering relationships among different columns and found meanin
 *   Which host has received the most number of reviews?
 *   Density of property within a neighbourhood group with location.
 *   Correlation of different numerical attributes.
+  
 **Conclusion**
 Through this exploratory data analysis (EDA) and visualization, we gained several interesting insights into the Airbnb rental market. This Airbnb dataset  appeared to be a very rich dataset with a variety of columns that allowed us to do deep data exploration on each significant column presented, like we got to know:
 *   Manhattan is the most focused place in New York for hosts to do their business.
