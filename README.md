@@ -44,7 +44,7 @@ Data Analysis and Visualization:
   
 Steps involved:
 
-1.know about your dataset:
+1.About dataset:
 
 columns name, host_name, neighbourhood_group, neighborhood and room_type are all object types. Others are either int or float type.
 
@@ -74,7 +74,7 @@ reviews_per_month(float64) - It indicates the number of reviews given in a parti
 calculated_host_listings_count(int64)- It shows the count of listings per host.
 availability_365(int64) - It indicates for how many days the Airbnb is available in a year.
 
-3.checking for unique values for each column
+3.Checking for unique values for each column
 
 4.Data wrangling:Handling null values and outliers.
 
