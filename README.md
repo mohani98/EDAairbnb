@@ -44,6 +44,15 @@ Data Analysis and Visualization:
   
 Steps involved
 
+*know about your dataset:
+
+columns name, host_name, neighbourhood_group, neighborhood and room_type are all object types. Others are either int or float type.The following are the counts for null values we have got:
+
+name - 16
+host_name - 21
+last_review - 10052
+reviews_per_month - 10052
+
 
 Conclusion
 
