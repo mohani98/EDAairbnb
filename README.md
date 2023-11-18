@@ -44,14 +44,38 @@ Data Analysis and Visualization:
   
 Steps involved
 
-*know about your dataset:
+1.know about your dataset:
 
 columns name, host_name, neighbourhood_group, neighborhood and room_type are all object types. Others are either int or float type.The following are the counts for null values we have got:
-
 name - 16
 host_name - 21
 last_review - 10052
 reviews_per_month - 10052
+
+2.Variables Description
+
+ID(int64) - ID of the person who booked the Airbnb.
+Name(object) - Name or title.
+host_id(int64) - ID of the person who rents out the property.
+Host_name(object) - Name of the person who rents out their property.
+neighbourhood_group(object)- It indicates the region that includes several small neighborhoods (i.e. like a broader group having smaller units of neighborhood).
+Neighborhood(object) - It indicates the geographically smaller areas within a city or region having their own local identity and characteristics.
+Latitude(float64) - Shows the measurement of the distance from the north or south pole of an equator of that particular property.
+Longitude(float64) - Shows the measurement of distance from the east or west prime meridian of that particular property.
+room_type(object) - Indicates the type of the room i.e. private room, Entire home/apt, or shared room.
+price(int64) - This indicates the value at which the property is rented in bucks.
+minimum_nights(int64) - This shows the minimum nights.
+number_of_reviews(int64) - This indicates the number of reviews received by a particular property.
+last_review(object) - Shows the last date of the review given
+reviews_per_month(float64) - It indicates the number of reviews given in a particular month.
+calculated_host_listings_count(int64)- It shows the count of listings per host.
+availability_365(int64) - It indicates for how many days the Airbnb is available in a year.
+
+3.checking for unique values for each column
+
+4.Data wrangling:Handling null values and outliers.
+
+5.Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables.
 
 
 Conclusion
