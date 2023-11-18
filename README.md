@@ -42,6 +42,7 @@ Data Analysis and Visualization:
   
 
 Conclusion
+
 Through this exploratory data analysis (EDA) and visualization, we gained several interesting insights into the Airbnb rental market. This Airbnb dataset  appeared to be a very rich dataset with a variety of columns that allowed us to do deep data exploration on each significant column presented, like we got to know:
 *   Manhattan is the most focused place in New York for hosts to do their business.
 * Manhattan and Broklyn has the most number of hosts.
