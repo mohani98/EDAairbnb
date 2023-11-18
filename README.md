@@ -42,7 +42,7 @@ Data Analysis and Visualization:
 *   Density of property within a neighbourhood group with location.
 *   Correlation of different numerical attributes.
   
-Steps involved
+Steps involved:
 
 1.know about your dataset:
 
