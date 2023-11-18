@@ -80,6 +80,22 @@ availability_365(int64) - It indicates for how many days the Airbnb is available
 
 5.Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables.
 
+Solution to Business Objective
+
+*   Allocate marketing resources more heavily in Manhattan and Brooklyn due to their high host concentration and customer demand.
+*   Since 'Entire home/apt' is the most listed and preferred type, consider promoting and expanding this category.
+* Explore ways to increase the popularity of 'Shared Room' listings, as they currently constitute a small percentage.
+* Implement dynamic pricing strategies for Manhattan, as it has the highest average payment across all room types. This can maximize revenue.
+* Recognize the high availability in Staten Island and tailor promotions or incentives to increase bookings.
+* Address the lower availability in Brooklyn; this might involve encouraging hosts to list their properties or partnering with them.
+* Capitalize on the trend of longer stays in private rooms in Brooklyn and Manhattan. Consider promotions or packages for extended bookings.
+* Encourage hosts to use popular keywords like 'bedroom,' 'cozy,' 'private,' etc., in their listings to attract more attention.
+*  Provide support and incentives for hosts with a high turnover, especially those in the top three like Sonder(nyc), Blueground, and Sally.
+* Leverage the popularity of the top ten hosts with the most reviews in marketing campaigns to build trust and attract more customers.
+* Utilize the density information in Brooklyn for targeted advertising or promotions in specific regions.
+
+
+
 
 Conclusion
 
